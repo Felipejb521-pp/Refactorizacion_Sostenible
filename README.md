@@ -16,7 +16,7 @@ En el apartado "Pequeño formato":
 ![Apartado "Gran formato"](/images/Captura%20de%20pantalla%202026-05-12%20113413.png)
 ### Fase 2: Dimensión Social y Equidad (S)
 Contraste de color bajo en la pagina de inicial:
-![Contraste color bajo ](/Refactorizacion_Sostenible/images/Captura%20de%20pantalla%202026-05-19%20111553.png)
+![Contraste color bajo ](/images/Captura%20de%20pantalla%202026-05-19%20111553.png)
 ![Contraste color bajo ](/Refactorizacion_Sostenible/images/Captura%20de%20pantalla%202026-05-19%20111439.png)
 ### Fase 3: Dimensión de Gobernanza y Ética (G)
 Al acceder a la pagina web no aparece la ventanita para rechazar o aceptar las cookies.
