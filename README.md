@@ -26,7 +26,7 @@ Al acceder a herramientas de desarrollador , averiguamos que la pagina no tiene 
 La web no nos pide informacion de registro ni formulario para acceder a ella sino que entramos directamente a la pagina de la copisteria.
 ### Fase 4: Propuesta de Refactorización (Green Coding)
 
-Optimización de activos
+**Optimización de activos**
 
 En vez de utilizar png o svg utilizaria AVIF o WebP que son muchos mas ligeros.
 Aparte, utilizar loading = "lazy" es fundamental para el impacto sostenible, mejoprando el importe cargado.
@@ -34,4 +34,5 @@ Aparte, utilizar loading = "lazy" es fundamental para el impacto sostenible, mej
 ![Formato imagenes](/images/Captura%20de%20pantalla%202026-05-19%20113448.png)
 
 **Reducción de peticiones**
+
 Tiene un script <script src="/js/wave.min.js?v=3.3.0.4"></script>. ES una liberia que actualmente depende de toda pagina.
