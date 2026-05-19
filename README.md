@@ -30,8 +30,8 @@ Optimización de activos
 
 En vez de utilizar png o svg utilizaria AVIF o WebP que son muchos mas ligeros.
 Aparte, utilizar loading = "lazy" es fundamental para el impacto sostenible, mejoprando el importe cargado.
-Mantendremos los SVG externos como img , 
+ 
 ![Formato imagenes](/images/Captura%20de%20pantalla%202026-05-19%20113448.png)
 
-*Reducción de peticiones*
+**Reducción de peticiones**
 Tiene un script <script src="/js/wave.min.js?v=3.3.0.4"></script>. ES una liberia que actualmente depende de toda pagina.
