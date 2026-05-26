@@ -42,6 +42,6 @@ Tiene un script <script src="/js/wave.min.js?v=3.3.0.4"></script>. ES una liberi
 Utilizaria exactamente lo que he mencionado antes en la otras preguntas. EL loading lazy es muy importante para la carga diferida y los formatos de las imagenes AVIF
 
 **Librerias mas prescindibles**
-### JQuery Migrate 3.4.1 # 
-Es una libreria de compatibilidad hacia atras solo sirve para que codigo obsoleto siga funcionando sin errores.
-### Jquery 3.7.1 
+*JQuery Migrate 3.4.1*
+Es una libreria de compatibilidad hacia atras solo sirve para que codigo obsoleto siga funcionando sin errores.El codigo fuente tiene carencia sin resolver.
+*Jquery 3.7.1* 
