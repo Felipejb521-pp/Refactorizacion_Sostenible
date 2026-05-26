@@ -20,8 +20,9 @@ Contraste de color bajo en la pagina de inicial:
 ![Contraste color bajo ](/images/Captura%20de%20pantalla%202026-05-19%20111439.png)
 ### Fase 3: Dimensión de Gobernanza y Ética (G)
 Al acceder a la pagina web no aparece la ventanita para rechazar o aceptar las cookies.
-![Herramientas desa Storage Cookies](/images/Captura%20de%20pantalla%202026-05-12%20115421.png)
 Al acceder a herramientas de desarrollador , averiguamos que la pagina no tiene cookies.
+
+![Herramientas desa Storage Cookies](/images/Captura%20de%20pantalla%202026-05-12%20115421.png)
 
 La web no nos pide informacion de registro ni formulario para acceder a ella sino que entramos directamente a la pagina de la copisteria.
 ### Fase 4: Propuesta de Refactorización (Green Coding)
