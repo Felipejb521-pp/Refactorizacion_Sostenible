@@ -30,6 +30,7 @@ La web no nos pide informacion de registro ni formulario para acceder a ella sin
 
 En vez de utilizar png o svg utilizaria AVIF o WebP que son muchos mas ligeros.
 Aparte, utilizar loading = "lazy" es fundamental para el impacto sostenible, mejoprando el importe cargado.
+En la pagina encotramos dos errores, ya que en el encabezado no tiene contenido y mas de 50 alertas por texto pequeño, alternativo...
  
 ![Formato imagenes](/images/Captura%20de%20pantalla%202026-05-19%20113448.png)
 
