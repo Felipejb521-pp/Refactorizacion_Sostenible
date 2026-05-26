@@ -36,10 +36,9 @@ En la pagina encotramos dos errores, ya que en el encabezado no tiene contenido 
 ![Formato imagenes](/images/Captura%20de%20pantalla%202026-05-19%20113448.png)
 
 **Reducción de peticiones**
-
 Tiene un script <script src="/js/wave.min.js?v=3.3.0.4"></script>. ES una liberia que actualmente depende de toda pagina.
-**Reflexión sobre la Paradoja de Jevons**
 
+**Reflexión sobre la Paradoja de Jevons**
 Utilizaria exactamente lo que he mencionado antes en la otras preguntas. EL loading lazy es muy importante para la carga diferida y los formatos de las imagenes AVIF
 
 **Librerias mas prescindibles**
