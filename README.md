@@ -14,7 +14,7 @@ En el apartado "Gran formato":
 
 En el apartado "Pequeño formato":
 ![Apartado "Gran formato"](/images/Captura%20de%20pantalla%202026-05-12%20113413.png)
-### Fase 2: Dimensión Social y Equidad (S)
+# Fase 2: Dimensión Social y Equidad (S)
 Contraste de color bajo en la pagina de inicial:
 ![Contraste color bajo ](/images/Captura%20de%20pantalla%202026-05-19%20111553.png)
 ![Contraste color bajo ](/images/Captura%20de%20pantalla%202026-05-19%20111439.png)
@@ -25,7 +25,7 @@ Al acceder a herramientas de desarrollador , averiguamos que la pagina no tiene 
 ![Herramientas desa Storage Cookies](/images/Captura%20de%20pantalla%202026-05-12%20115421.png)
 
 La web no nos pide informacion de registro ni formulario para acceder a ella sino que entramos directamente a la pagina de la copisteria.
-### Fase 4: Propuesta de Refactorización (Green Coding)
+# Fase 4: Propuesta de Refactorización (Green Coding)
 
 **Optimización de activos**
 
@@ -40,6 +40,6 @@ Tiene un script <script src="/js/wave.min.js?v=3.3.0.4"></script>. ES una liberi
 **Reflexión sobre la Paradoja de Jevons**
 Utilizaria exactamente lo que he mencionado antes en la otras preguntas. EL loading lazy es muy importante para la carga diferida y los formatos de las imagenes AVIF
 **Librerias mas prescindibles**
-# JQuery Migrate 3.4.1 # 
+### JQuery Migrate 3.4.1 # 
 Es una libreria de compatibilidad hacia atras solo sirve para que codigo obsoleto siga funcionando sin errores.
-# Jquery 3.7.1 
+### Jquery 3.7.1 
