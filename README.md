@@ -1,3 +1,5 @@
+# Refactorización Sostenible
+
 ***Este trabajo hace un estudio exhaustivo para la refactorización de la pagina web de la copisteria FyC https://fycprint.com/ , el grupo está formado por Felipe Jimenez y Joaquin Torrubia***
 # Fase 1: Inventario y Dimensión Ambiental (A) 
 Mediante el uso de Lighthouse vemos que la pagina web tiene una accesibilidad casi inmejorable.
