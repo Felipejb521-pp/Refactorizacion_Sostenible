@@ -60,4 +60,9 @@ El uso de una semántica es imprescindible. En el código encontramos el uso de 
 La página web no contiene cookies .
 Debería poner las cookies y si lo pusiera. Estaría bien colocar un pequeño enlace fijo en el pie de página "Configurar cookies" para que el usuario pueda cambiar de opinión y retirar su consentimiento.
 
+**Posibles mejoras ambientales**
+A esta página se le puede introducir  cosas para mejorar ambientalmente. Entre ellas el uso del loading lazy para la carga diferida. Para no cargar imágenes pesadas y ahorrar datos y conseguir fluidez en la navegación.
+Eliminar enlaces HTTP para una carga más limpia y ecológica, ya que con esto los enlaces no paran de viajar de un sitio a otro en los servidores.
+
+
 
