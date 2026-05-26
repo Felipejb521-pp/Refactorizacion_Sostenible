@@ -19,6 +19,9 @@ En el apartado "Pequeño formato":
 Contraste de color bajo en la pagina de inicial:
 ![Contraste color bajo ](/images/Captura%20de%20pantalla%202026-05-19%20111553.png)
 ![Contraste color bajo ](/images/Captura%20de%20pantalla%202026-05-19%20111439.png)
+
+Son errores sobre todo del encabezado no tiene nada. Errores de constraste muy altos y muy bajos.
+
 # Fase 3: Dimensión de Gobernanza y Ética (G)
 Al acceder a la pagina web no aparece la ventanita para rechazar o aceptar las cookies.
 Al acceder a herramientas de desarrollador , averiguamos que la pagina no tiene cookies.
