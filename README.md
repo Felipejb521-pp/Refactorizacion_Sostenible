@@ -48,6 +48,5 @@ Es una libreria de compatibilidad hacia atras solo sirve para que codigo obsolet
 En 2026, jQuery es ampliamente reemplazable con JavaScript nativo moderno (querySelector, fetch, classList, etc.). Sin embargo, las otras librerías de la lista dependen de ella:
 
 **Posibles mejoras sociales**
-
 El uso de una semántica es imprescindible. En el código encontramos el uso de Head, Header, Main. Aunque el código se pasa utilizando “div". Podría utilizar más article, section y footer. Hay demasiados “div” que empeoran la semántica del codigo.
 
