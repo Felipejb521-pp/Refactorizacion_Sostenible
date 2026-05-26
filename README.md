@@ -51,3 +51,9 @@ En 2026, jQuery es ampliamente reemplazable con JavaScript nativo moderno (query
 **Posibles mejoras sociales**
 El uso de una semántica es imprescindible. En el código encontramos el uso de Head, Header, Main. Aunque el código se pasa utilizando “div". Podría utilizar más article, section y footer. Hay demasiados “div” que empeoran la semántica del codigo.
 
+
+**Posibles mejoras de gobernanza**
+La página web no contiene cookies .
+Debería poner las cookies y si lo pusiera. Estaría bien colocar un pequeño enlace fijo en el pie de página "Configurar cookies" para que el usuario pueda cambiar de opinión y retirar su consentimiento.
+
+
